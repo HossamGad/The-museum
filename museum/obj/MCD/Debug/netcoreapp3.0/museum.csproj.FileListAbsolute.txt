@@ -1,0 +1,11 @@
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.exe
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.deps.json
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.runtimeconfig.json
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.runtimeconfig.dev.json
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.dll
+C:\Users\hoss_\Desktop\The Museum\museum\bin\MCD\Debug\netcoreapp3.0\museum.pdb
+C:\Users\hoss_\Desktop\The Museum\museum\obj\MCD\Debug\netcoreapp3.0\museum.csprojAssemblyReference.cache
+C:\Users\hoss_\Desktop\The Museum\museum\obj\MCD\Debug\netcoreapp3.0\museum.AssemblyInfoInputs.cache
+C:\Users\hoss_\Desktop\The Museum\museum\obj\MCD\Debug\netcoreapp3.0\museum.AssemblyInfo.cs
+C:\Users\hoss_\Desktop\The Museum\museum\obj\MCD\Debug\netcoreapp3.0\museum.dll
+C:\Users\hoss_\Desktop\The Museum\museum\obj\MCD\Debug\netcoreapp3.0\museum.pdb
